@@ -15,7 +15,7 @@ public class WritingDataIntoXL {
 
 	public static void main(String[] args) throws IOException {
 			
-			FileInputStream fi= new FileInputStream("D:\\ReadDt.xlsx");
+			//FileInputStream fi= new FileInputStream("D:\\ReadDt.xlsx");
 			
 //			Workbook wb = new XSSFWorkbook(fi);
 //			
